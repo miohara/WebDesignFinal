@@ -1,0 +1,6 @@
+Hi Glen, 
+
+I noticed upon uploading this to 000.webhost that when viewed on chrome the problem of the nav bar not being width100% or centred remains. It does work perfectly when viewed on safari, I am unsure as to why it doesn't work correctly on chrome but as you said I did create this on mac so that could have something to do with it. Apologies for this.
+
+Thank you,
+Mike
